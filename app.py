@@ -1,6 +1,8 @@
 # File: app.py
 
 import streamlit as st
+st.title("✅ App đang chạy ngon lành!")
+
 import pandas as pd
 import numpy as np
 import time
